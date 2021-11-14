@@ -4,5 +4,6 @@
 .Rproj.user/
 #
 /renv
+/databank
 #
 *packages.R
